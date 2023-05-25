@@ -1,0 +1,29 @@
+header {
+  width: 100%;
+  height: 70px;
+  background: blue;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  color: white;
+}
+
+.shop {
+  margin: 25px;
+  width: 150px;
+  cursor: pointer;
+}
+
+.bask {
+  margin-left: 300px;
+  margin-top: 25px;
+  cursor: pointer;
+}
+
+.pract {
+  margin-left: 300px;
+  margin-top: 20px;
+  cursor: pointer;
+}
